@@ -32,7 +32,7 @@ A. Olteanu, C. Castillo, F. Diaz, S. Vieweg. 2014. CrisisLex: A Lexicon for Coll
 ## Data Dictionary
 
 |Feature|Type|Description|
-|---|---|---|---|
+|---|---|---|
 |tweet id|int64|Coded ID associated with the tweet|
 |tweet|object|Text of the tweet|
 |label|object|Lists whether or not the tweet is relevant to the event|
@@ -46,4 +46,5 @@ Moving forward, it may be useful to consider if a retweet could add to a word's 
 ## References
 
 [Study on creating a crisis lexicon for Twitter emergency warnings](https://crisislex.org/papers/icwsm2014_crisislex.pdf)
+
 [National Hurricane Center](https://www.nhc.noaa.gov/climo/)
